@@ -19,4 +19,6 @@ pkg i yarn
 
 - Acode : https://www.mediafire.com/file/3fuk493sc3t4dpy/acode-1.3.156-paid.apk/file
 
-Grupo: https://chat.whatsapp.com/HYD0FXHhqJ56i4UxIFQgy6
+- Grupo: https://chat.whatsapp.com/HYD0FXHhqJ56i4UxIFQgy6
+
+- Download: https://www.mediafire.com/file/4tb80nyfrtgo5ck/black.zip/file
