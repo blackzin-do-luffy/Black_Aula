@@ -11,7 +11,9 @@ pkg i git
 
 pkg i yarn 
 
-...Agr segue o video❤️
+...Agr segue o video❤️ 
+
+- Video: https://youtu.be/ntI4CJYNatU
 
 - Termux : https://www.mediafire.com/file/hf9gc9t2v0xio9r/Termux+©Blackzin.apk/file
 
